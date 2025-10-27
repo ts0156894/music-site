@@ -1,3 +1,3 @@
 Name: Tara Sweeney
 Project: Music Artist Site
-Netlify URL: 
+Netlify URL: https://sweeney-tara-music.netlify.app/
